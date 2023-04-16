@@ -25,7 +25,7 @@ Import LiquidCrystal_I2C.h library and LiquidCrystal.h library files to the Ardu
 Install the latest version of Proteus Software using the below link.
 https://proteus.soft112.com/
 
-Import Arduino library file, flow sensor library file and 16x2LCD TEP display to the Proteus Software.
+Import Arduino library file, flow sensor library file and 16x2LCD TEP display Library file to the Proteus Software.
 
 Run the Arduino Code in the Arduino IDE and compile it, then copy the HEX file and dump it in the arduino of the above Proteus Simulation and Simulate it.
 
