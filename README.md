@@ -1,4 +1,4 @@
-# Water-Mangement-and-Leakage-Detection
+# Byteverse_Team_SEC#08
 To Save and Conserve Water(ByteVerse Project)
 
 Research shows that worldwide, freshwater resources are rapidly diminishing, causing tension among different nations. 
