@@ -1,5 +1,5 @@
 # Water Management and Leakage Detection
-To Save and Conserve Water(ByteVerse Project)
+To Save and Conserve Water(ByteVerse Hackathon Project)
 
 Research shows that worldwide, freshwater resources are rapidly diminishing, causing tension among different nations. 
 The primary reasons for this crisis are 
